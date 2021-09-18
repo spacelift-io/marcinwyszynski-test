@@ -1,3 +1,3 @@
-# gergu-test
+# Testing repository from marcinw
 
 Bacon
